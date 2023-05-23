@@ -1,0 +1,15 @@
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\net7.0\Quanlysinhvien.exe
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\net7.0\Quanlysinhvien.deps.json
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\net7.0\Quanlysinhvien.runtimeconfig.json
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\net7.0\Quanlysinhvien.dll
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\net7.0\Quanlysinhvien.pdb
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.csproj.AssemblyReference.cache
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.AssemblyInfoInputs.cache
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.AssemblyInfo.cs
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.dll
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\refint\Quanlysinhvien.dll
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.pdb
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\Quanlysinhvien.genruntimeconfig.cache
+D:\C#\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\net7.0\ref\Quanlysinhvien.dll
